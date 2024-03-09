@@ -4,9 +4,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
 <b>Simple, Decent & Free VPN Application based on OpenVPN Protocol.</b></br>
-
-<br>
-<br>
   
 <b>Features👇 : </b>
 <ul>
